@@ -12,4 +12,4 @@
 # Jenkins is now working 
 # have been able to make it work
 
-push to Jenkins
+push to Jenkins now
