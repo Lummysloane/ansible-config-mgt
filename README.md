@@ -14,6 +14,4 @@
 
 updates on pushing to jenk
 
-**Push to Jenkins**
-
-save artifacts
+Push to Jenkins
