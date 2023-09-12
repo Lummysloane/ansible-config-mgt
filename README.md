@@ -12,6 +12,6 @@
 # Jenkins is now working 
 # have been able to make it work
 
-updates on pushing to jenk
+updates on pushing to jenikins
 
-Push to Jenkins
+Push to Jenkins 2023
