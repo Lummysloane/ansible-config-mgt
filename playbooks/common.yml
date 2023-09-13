@@ -16,7 +16,8 @@
   become: yes
   become_user: root
   tasks:
-  - name: ensure wireshark is at the latest version
+  - name: Install wireshark
+    become: yes
     apt:
      name: wireshark
      state: latest
