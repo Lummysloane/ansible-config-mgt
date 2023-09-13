@@ -25,10 +25,6 @@
   hosts: webservers, nfs, db, lb  
   become: yes
   tasks:
-  
-- name: set timezone
-      timezone:
-        name: Europe/London
 
         
 
