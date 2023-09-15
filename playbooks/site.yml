@@ -1,4 +1,4 @@
 ---
 - hosts: all
   tasks:
-    - import_playbook: ../static-assignments/common.yml
+    - Import_playbook: ../static-assignments/common.yml
