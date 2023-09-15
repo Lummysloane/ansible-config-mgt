@@ -1,4 +1,6 @@
 ---
-- hosts: all
+
+- hosts: uat-webservers
+- import_playbook: ../static-assignments/uat-webservers.yml
   tasks:
     - Import_playbook: ../static-assignments/common.yml
